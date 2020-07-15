@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 > Primeiramente, é um enorme prazer tê-lo(a) por aqui!
 >> Como você não me conhece, vou me apresentar rapidamente:
 
-- Consultor Técnico em Redes de Computadores na [CABONNET](https://www.cabonnet.com.br/)
+- Consultor Técnico em Redes de Computadores na [CABONNET OURINHOS](https://www.cabonnet.com.br/)
 - Consultor em Segurança da Informação e Redes de Computadores na [H4NES TECNOLOGIA](https://h4nes.com/);
-- Técnico Médio em Gestão de Políticas Públicas pela [ETEC](http://www.etec.sp.gov.br/view/Default.aspx);
-- Tecnólogo Superior em Tecnologia em Segurança da Informação pela [FATEC](https://www.fatecourinhos.edu.br/);
-- Credenciado em Infraestrutura de Cabeamento Estruturado pela [FURUKAWA](https://www.furukawalatam.com/pt-br/);
-- Credenciado em Administração de Redes Corporativas pela [UBIQUITI](https://www.ui.com/);
+- Técnico Médio em Gestão de Políticas Públicas pela [ETEC IPAUSSU](http://www.etec.sp.gov.br/view/Default.aspx);
+- Tecnólogo Superior em Tecnologia em Segurança da Informação pela [FATEC OURINHOS](https://www.fatecourinhos.edu.br/);
+- Credenciado em Infraestrutura de Cabeamento Estruturado pela [FURUKAWA ELECTRIC LATAM](https://www.furukawalatam.com/pt-br/);
+- Credenciado em Administração de Redes Corporativas pela [UBIQUITI INC.](https://www.ui.com/);
 
 ![LOGO_PNG](https://user-images.githubusercontent.com/68307574/87491111-a1418b80-c61d-11ea-98dd-bd943a5ca412.png)
 ## Aqui você não encontrará nada por enquanto, mas em breve prometo compartilhar coisas sobre meus estudos:
