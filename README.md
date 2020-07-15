@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 > Primeiramente, é um enorme prazer tê-lo(a) por aqui!
 >> Como você não me conhece, vou me apresentar rapidamente:
 
+- Consultor Técnico em Redes de Computadores na [CABONNET](https://www.cabonnet.com.br/)
 - Consultor em Segurança da Informação e Redes de Computadores na [H4NES TECNOLOGIA](https://h4nes.com/);
-- Técnico em Eixo-Tecnológico em Gestão de Políticas Públicas pela [ETEC](http://www.etec.sp.gov.br/view/Default.aspx);
-- Tecnólogo em Eixo-Tecnológico em Tecnologia em Segurança da Informação pela [FATEC](https://www.fatecourinhos.edu.br/);
+- Técnico Médio em Gestão de Políticas Públicas pela [ETEC](http://www.etec.sp.gov.br/view/Default.aspx);
+- Tecnólogo Superior em Tecnologia em Segurança da Informação pela [FATEC](https://www.fatecourinhos.edu.br/);
 - Credenciado em Infraestrutura de Cabeamento Estruturado pela [FURUKAWA](https://www.furukawalatam.com/pt-br/);
 - Credenciado em Administração de Redes Corporativas pela [UBIQUITI](https://www.ui.com/);
 
